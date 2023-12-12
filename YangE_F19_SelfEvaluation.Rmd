@@ -1,0 +1,103 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Emily Yang"
+date: "December 12, 2023"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+### Overall Impression
+<center>
+
+<font size="+2"><b>Sashay... Away.</b></font></center><br>
+
+<center><p><img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+When my code works I'm on top of the world. When the code doesn't its time to google. From this course I got the basics of how to run programs in R and do statistical analysis but more importantly it has taught me how to google my roadblocks. This class was a good first introduction to coding and will help me learn other coding languages faster.
+
+***
+
+### What were you asked to do?
+
+***
+
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br>
+
+
+1. HW 1 https://github.com/YYangEmily/AN588-Week-2-yangy22/blob/main/yangy22_FinalHomeworkCode_01.html <br>
+2. HW 2 https://github.com/YYangEmily/AN588-Week-3-yangy22/blob/main/yangy22_FinalHomeworkCode_02.html <br>
+3. HW 3 https://github.com/YYangEmily/AN588_Zombies_yangy22/blob/main/yangy22__FinalHomeworkCode_03.html <br>
+4. HW 4 https://github.com/YYangEmily/AN588_Malfunction_yangy22/blob/main/yangy22_FinalHomeworkCode_04.html <br>
+5. HW 5 https://github.com/YYangEmily/AN588_Boots_yangy22/blob/main/yangy22_FinalHomeworkCode_05.html <br>
+6. Group Vignette https://github.com/erin1928/Statistical-Vignette/blob/main/Goodness-of-Fit-Tests.html <br>
+7. Replication Assignment https://github.com/YYangEmily/yangy22-data-replication-assignment/blob/main/yangy22-data-replication-assignment.html <br>
+8. Weekly modules are on my github. All student made modules are in the same repo. https://github.com/YYangEmily/Student_Modules <br>
+9. Attend all classes and office hours as needed. <br> <br>
+
+***
+### What did you accomplish?
+
+***
+
+Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br>
+All tasks were accomplished and submitted before their Wednesday deadlines. <br>
+
+***
+### How well did you accomplish them?
+
+***
+
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+
+***
+
+### What did you learn from all this?
+
+***
+
+Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[insert letter grade here]</center><br>
+
+***
