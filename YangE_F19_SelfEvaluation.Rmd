@@ -43,7 +43,8 @@ Please give me a bulleted/numbered list of each task you were asked to do for th
 ***
 
 Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br>
-All tasks were accomplished and submitted before their Wednesday deadlines. <br>
+
+All tasks were accomplished and submitted before their Wednesday deadlines.  <br>
 
 ***
 ### How well did you accomplish them?
@@ -98,6 +99,6 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><center>[insert letter grade here]</center><br>
+<br><center>[A]</center><br>
 
 ***
