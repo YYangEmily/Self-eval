@@ -51,7 +51,10 @@ All tasks were accomplished and submitted before their Wednesday deadlines.  <br
 
 ***
 
-Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br>
+
+I spent roughly 8 hours on this class a week and I feel that I acomplished things well. My weakest homework was HW 4 Malfunction. Even after going to office hours I was unable to write functional code. The hardest part for me was figuring out the rules of writing code and how tiny mistakes like commas in the wrong place can wreak everything downstream. As the semester progressed I got better at googling examples and following code that other people wrote. At the beginning I wasn't super good at annotating code because everything seemed self explanatory and I wasn't sure if I was being condescending. Through reading other people's code and peer review I realized that everyone sees code differently and that its better to over annotate than the opposite. 
+
 
 ***
 
@@ -59,7 +62,9 @@ Please let me know how well you feel you accomplished your tasks, in a general s
 
 ***
 
-This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+This may be in relation to previous knowledge, or in relation to future/planned work.<br><br>
+
+
 
 ***
 
@@ -67,7 +72,9 @@ This may be in relation to previous knowledge, or in relation to future/planned 
 
 ***
 
-Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+Please name at least three things you feel you learned in this course.<br><br>
+
+
 
 ***
 
@@ -83,7 +90,9 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+<br><br>
 
 ***
 
@@ -91,7 +100,10 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
+
+How to write and annotate code in a easy to follow manner. <br>
+How to keep trying at an issue and knowing when to walk away for a bit.<br>
 
 ***
 
