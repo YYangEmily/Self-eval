@@ -1,7 +1,7 @@
 ---
 title: "AN/BI 588: End-of-Semester Self Evaluation"
 author: "Emily Yang"
-date: "December 12, 2023"
+date: "December 15, 2023"
 output: 
   rmarkdown::html_document:
     theme: cosmo
@@ -11,9 +11,9 @@ output:
 ### Overall Impression
 <center>
 
-<font size="+2"><b>Sashay... Away.</b></font></center><br>
+<font size="+2"><b>Coding is Crazy</b></font></center><br>
 
-<center><p><img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black"></p>
+<center><p><img src="https://gifdb.com/images/high/rupaul-drag-queen-funny-what-the-hell-3azy6hadh0s0wy9g.gif" style="border:5px solid black"><figcaption>First time I see the HW</figcaption></p>
 </center><br>  
 
 When my code works I'm on top of the world. When the code doesn't its time to google. From this course I got the basics of how to run programs in R and do statistical analysis but more importantly it has taught me how to google my roadblocks. This class was a good first introduction to coding and will help me learn other coding languages faster.
@@ -53,7 +53,7 @@ All tasks were accomplished and submitted before their Wednesday deadlines.  <br
 
 Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br>
 
-I spent roughly 8 hours on this class a week and I feel that I acomplished things well. My weakest homework was HW 4 Malfunction. Even after going to office hours I was unable to write functional code. The hardest part for me was figuring out the rules of writing code and how tiny mistakes like commas in the wrong place can wreak everything downstream. As the semester progressed I got better at googling examples and following code that other people wrote. At the beginning I wasn't super good at annotating code because everything seemed self explanatory and I wasn't sure if I was being condescending. Through reading other people's code and peer review I realized that everyone sees code differently and that its better to over annotate than the opposite. 
+I spent roughly 8 hours on this class a week and I feel that I accomplished things well. My weakest homework was HW 4 Malfunction. Even after going to office hours I was unable to write functional code. The hardest part for me was figuring out the rules of writing code and how tiny mistakes like commas in the wrong place can wreak everything downstream. As the semester progressed I got better at googling examples and following code that other people wrote. At the beginning I wasn't super good at annotating code because everything seemed self explanatory and I wasn't sure if I was being condescending. Through reading other people's code and peer review I realized that everyone sees code differently and that its better to over annotate than the opposite. 
 
 
 ***
@@ -64,7 +64,7 @@ I spent roughly 8 hours on this class a week and I feel that I acomplished thing
 
 This may be in relation to previous knowledge, or in relation to future/planned work.<br><br>
 
-
+Since taking this course I've starting moving away from using Excel for all of my data analysis and graph making. With all of the built in functions and flexibility of R I am able to better analyze my data. I've learned a lot about how to work with small or incomplete data sets which will change how I set up my projects. I've learned about what statistical tests can be applied to certain data and when. The replication assignment was especially eyeopening because I could see how the authors analyzed the data but also where I would do things differently. 
 
 ***
 
@@ -74,7 +74,9 @@ This may be in relation to previous knowledge, or in relation to future/planned 
 
 Please name at least three things you feel you learned in this course.<br><br>
 
-
+How to write and annotate code in a easy to follow manner. <br>
+How to keep trying at an issue and knowing when to walk away for a bit.<br>
+HTML formatting and how to insert pictures and links. <br>
 
 ***
 
@@ -82,17 +84,19 @@ Please name at least three things you feel you learned in this course.<br><br>
 
 ***
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+I learned about ensuring that my portion of the work was done before the deadline to give ample time to others to do/receive peer review. I communicated with my HW groups so everyone knew when to expect feedback and plan around any extra time necessary. I skimmed the reading assignments and they were helpful in setting group expectations. My replication group were all very motivated to do well so we didn't have any issues with collaboration.
+
+<br>
 
 ***
 
 ### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
 
 ***
+<br>
 
-<br><br>
-
-<br><br>
+The peer review process was actually very helpful because everyone attacked the problem in a different way. Seeing other people's attempts inspired me to look for other ways to tackle the problem. The group project was a success because we could split up the work and become an expert in our own area of the presentation. It helped lessen the workload and if one person ran into a coding issue there were other people around to troubleshoot. 
 
 ***
 
@@ -100,10 +104,8 @@ Please name at least three things you feel you learned in this course.<br><br>
 
 ***
 
-<br><br><br>
 
-How to write and annotate code in a easy to follow manner. <br>
-How to keep trying at an issue and knowing when to walk away for a bit.<br>
+I am taking away the work process of breaking a problem into smaller chunks and tackling each one separately. I try out a couple ways of doing a task and then pick the simplest in the end. It helps me learn to code even though I'm erasing unused code. 
 
 ***
 
